@@ -30,9 +30,7 @@
 &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp   I   &kp  O  &kp   P  &kp RET
 &kp LCTL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp   K   &kp  L  &kp SEMI &kp RCTL
 &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-
-&kp LGUI &mo LOWER &mo FN &kp LALT &mo RAISE &kp SPACE 
-&kp SPACE &mo RAISE &kp RALT &mo FN &mo LOWER &kp LGUI
+&kp LGUI &mo LOWER &mo FN &kp LALT &mo RAISE &kp SPACE &kp SPACE &mo RAISE &kp RALT &mo FN &mo LOWER &kp LGUI
 			>;
 		};
 
