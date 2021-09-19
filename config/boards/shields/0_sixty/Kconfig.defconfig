@@ -1,6 +1,9 @@
-if SHIELD_MY_BOARD
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_0_SIXTY
 
 config ZMK_KEYBOARD_NAME
-	default "0-Sixty by ven0mtr0n"
+	default "0-Sixty"
 
 endif
