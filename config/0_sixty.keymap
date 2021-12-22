@@ -37,7 +37,7 @@
 		raise_layer {
 			bindings = <
 &trans     &kp LS(N1)  &kp LS(N2)  &kp LS(N3)  &kp LS(N4)   &kp LS(N5)  &kp LS(N6)  &kp LS(N7)  &kp LS(N8)  &kp LS(N9)  &kp LS(N0)  &kp DEL     
-&trans     &kp LBKT    &kp LT      &kp GT      &kp RBKT     &kp TILDE   &kp PPIPE   &kp GRAVE   &kp APOS    &kp DQT     &kp PG_UP   &kp DEL    
+&trans     &kp LBKT    &kp LT      &kp GT      &kp RBKT     &kp TILDE   &kp PIPE   &kp GRAVE   &kp APOS    &kp DQT     &kp PG_UP   &kp DEL    
 &trans     &kp LBRC    &kp LPAR    &kp RPAR    &kp RBRC     &kp DEL     &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &kp PG_DN   &trans 
 &trans     &trans      &trans      &trans      &trans       &kp INS     &kp EQUAL   &kp UNDER   &kp MINUS   &kp PLUS    &kp BSLH    &trans     
 &trans     &trans      &trans      &trans      &trans       &kp CAPS    &kp CAPS    &trans      &trans      &trans      &trans      &trans     
